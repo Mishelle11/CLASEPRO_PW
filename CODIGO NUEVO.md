@@ -1,3 +1,3 @@
 # CLASEPRO_PW
 Clases de programación TPW
-Esto es para practicar
+este proyecto es para practicar
